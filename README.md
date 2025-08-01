@@ -159,6 +159,33 @@ Contributions are welcome! Please feel free to:
 
 This template is provided as-is for academic use. Please respect the original authors' work and the university's branding guidelines.
 
+### Copyright Information
+
+```
+%% Copyright 2025 Ziyi Wang
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License, either version 1.3
+% of this license or (at your option) any later version.
+% The latest version of this license is in
+%   http://www.latex-project.org/lppl.txt
+% and version 1.3 or later is part of all distributions of LaTeX
+% version 2003/12/01 or later.
+%
+% This work has the LPPL maintenance status "maintained".
+%
+% The Current Maintainer of this work is Ziyi Wang.
+%
+% This work consists of all the *.tex, *.cls and *.sty files in
+%   https://github.com/ziyiwhat/UESTC-RecommendationLetter-Template
+%
+% Based on work by:
+% - Brian Wood (original template)
+% - Shaozuo Yu (AugustYum@outlook.com) - Tongji University modifications
+% - Rizhong Lin (rizhonglin@tongji.edu.cn) - Maintenance and updates
+% - Ziyi Wang (ziyiwhat@gmail.com) - UESTC adaptations
+```
+
 ## 📞 Support
 
 For questions or issues:
