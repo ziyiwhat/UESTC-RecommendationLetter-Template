@@ -76,9 +76,9 @@
 
 \sbox{\departmenthead}{%
     \begin{tabular*}{\textwidth}{@{}l@{\extracolsep{0.0in}}|@{\extracolsep{0.25in}}l@{}}
-        \parbox{4.9in}{\raggedright
+        \parbox{4.7in}{\raggedright
             \ifthenelse{\boolean{logofound}}
-                {\vspace{0.1in}\includegraphics[height=0.855in]{figures/UESTC.pdf}}
+                {\vspace{0.1in}\includegraphics[height=0.82in]{figures/UESTC.pdf}}
                 {\parbox[t][2.0in][t]{3.0in}{\hfill} 
                 \ClassWarning{uestcLetter}{figures/UESTC.pdf COULD NOT BE FOUND!}}
         } &
