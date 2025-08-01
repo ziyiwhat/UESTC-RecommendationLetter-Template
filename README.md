@@ -109,39 +109,6 @@ Replace the content in `content.tex` with your recommendation letter text:
 - The template will automatically include it if the file exists
 - If no signature file is found, it will use a text-based signature
 
-## 🎨 Features in Detail
-
-### Letterhead
-- Official UESTC logo in the header
-- Professional university branding
-- Clean, academic layout
-
-### Watermark
-- Subtle UESTC background watermark
-- Can be enabled/disabled as needed
-- Maintains readability while adding branding
-
-### Page Formatting
-- Standard letter paper size
-- Proper margins and spacing
-- Page numbering (Page X of Y)
-- Footer with university information
-
-### Contact Information
-- Faculty member details
-- Department and school information
-- University address and contact details
-
-## 📝 Example Output
-
-The template generates a professional recommendation letter with:
-- UESTC letterhead at the top
-- Faculty contact information
-- Recipient address section
-- Main letter content area
-- Signature section with digital signature support
-- University footer information
-
 ## 🤝 Contributing
 
 This template was originally created by Brian Wood and has been modified by:
@@ -184,13 +151,6 @@ This template is provided as-is for academic use. Please respect the original au
 % - Rizhong Lin (rizhonglin@tongji.edu.cn) - Maintenance and updates
 % - Ziyi Wang (ziyiwhat@gmail.com) - UESTC adaptations
 ```
-
-## 📞 Support
-
-For questions or issues:
-- Check the LaTeX compilation logs for errors
-- Ensure all required files are present in the `figures/` directory
-- Verify that your LaTeX distribution includes all required packages
 
 ---
 
