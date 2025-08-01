@@ -29,7 +29,17 @@ UESTC-RecommendationLetter-Template/
 
 ## 🚀 Quick Start
 
-### Option 1: Local Compilation
+### Option 1: Overleaf
+
+> **💡 Overleaf Template is currently under review**. If you prefer using Overleaf, you can manually upload this repository to Overleaf:
+
+1. **Create a new project** in Overleaf
+2. **Upload all files** from this repository to your Overleaf project
+3. **Customize** the personal information in `main.tex`
+4. **Edit** the letter content in `content.tex`
+5. **Compile** using Overleaf's built-in LaTeX compiler
+
+### Option 2: Local Compilation
 
 #### Prerequisites
 
@@ -55,16 +65,6 @@ UESTC-RecommendationLetter-Template/
    ```bash
    pdflatex main.tex
    ```
-
-### Option 2: Overleaf
-
-> **💡 Overleaf Template is currently under review**. If you prefer using Overleaf, you can manually upload this repository to Overleaf:
-
-1. **Create a new project** in Overleaf
-2. **Upload all files** from this repository to your Overleaf project
-3. **Customize** the personal information in `main.tex`
-4. **Edit** the letter content in `content.tex`
-5. **Compile** using Overleaf's built-in LaTeX compiler
 
 ## ⚙️ Customization
 
