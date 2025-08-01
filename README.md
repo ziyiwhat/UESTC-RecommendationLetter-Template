@@ -97,11 +97,9 @@ Replace the content in `content.tex` with your recommendation letter text:
 
 ```latex
 % Replace \lipsum[1-6] with your actual letter content
-Dear Admissions Committee,
 
 [Your recommendation letter content here...]
 
-Sincerely,
 ```
 
 ### Signature
